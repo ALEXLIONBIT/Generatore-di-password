@@ -1,6 +1,8 @@
 # Generatore-di-password
 è un generatore di password così da essere più sicuri
 
+prima di aprire il programma assicurati di avere python si istalla su https://www.python.org/downloads/
+
 Tu ti chiedi come funziona?
 
 inizialmente ti chiede quanto
